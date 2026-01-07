@@ -21,7 +21,7 @@ Descrição: Aprender técnicas de distribuir recursos a serem utilizados em dif
 ​
 
 ## Descrição dos dados simulados
-O Prompt para Perplexity IA **<ins>simular os dados</ins>** encontra-se disponível no [Apêndice logo abaixo](#apêndice---prompt-para-perplexity-ia-simular-os-dados)
+O Prompt para Perplexity IA **<ins>simular os dados</ins>** encontra-se disponível no [Apêndice](#apêndice---prompt-para-perplexity-ia-simular-os-dados) logo abaixo.
 
 
 
