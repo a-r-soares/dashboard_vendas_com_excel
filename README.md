@@ -41,14 +41,14 @@ O Prompt para Perplexity IA **<ins>simular os dados</ins>** encontra-se disponí
 
 - Gráficos
   - Vendas por Mês - gráfico misto de linhas (valor) e colunas (quantidades).
-  - Vendas por Produto -  gráfico de s horizontais representando valor e quantidade.
+  - Vendas por Produto -  gráfico de barras horizontais representando valor e quantidade.
   - Vendas por Meio de Pagamento - gráfico de pizza 3D, representando os meios de pagamento utilizados pelos clientes.
   
 
 - Filtros
   - Os filtros disponíveis são de Mês Ano Venda, Dia da Semana, Produto e Meio de Pagamento.
   - Eles são independentes a nível de seleção mas "agem conjuntamente" em todo o dashboard (grandes números e gráficos).
-  - Cada filtro permite multiplas escolhas e, da mesma forma, impactam todo o dashboard.
+  - Cada filtro permite múltiplas escolhas e, da mesma forma, impactam todo o dashboard.
 
 <br/>
 
@@ -103,7 +103,7 @@ Quantidade de registros:
 - aproximadamente 2.000 registros
 
 Considerar que:
-- a ca não funciona nas segundas-feiras
+- a barraca de praia não funciona nas segundas-feiras
 - simular vários dias sem movimento devido a chuva
 
 Campos desejados:
