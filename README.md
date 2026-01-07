@@ -1,37 +1,42 @@
 
 <img width="448" height="98" alt="imagem_cabecalho_readme" src="https://github.com/user-attachments/assets/5715fdf7-0faf-4862-b271-85c058f69e5c" />
+<br/>
+<br/>
 
+# Projeto - Dashboard de Vendas – Barraca Brisa Solar
+<ins>Simulação</ins> de vendas de uma barraca de praia <ins>fictícia</ins>, com dashboard em Excel, para fins de treinamento no curso Santander 2025 - Ciência de Dados com Python, ministrado pela [DIO](https://www.dio.me/).
 
-# Título do Projeto
-### Dashboard de Vendas – Barraca Brisa Solar
-Simulação de vendas de uma barraca de praia com dashboard em Excel, para fins de treinamento no curso Santander 2025 - Ciência de Dados com Python, ministrado pela [DIO](https://www.dio.me/).
-​
-## Visão geral
-Objetivo: Entrega de projeto para demonstrar conhecimentos adquiridos quanto a criação de dashboard utilizando o Excel.
+<br/>
 
-Descrição: Aprender técnicas de distribuir recursos a serem utilizados em diferentes planilhas. Entender os conceitos para criação de um dashboard que realmente contribua com o cliente quanto a visualização do negócio. 
-​
-## Arquivos principais do repositório
+## Visão Geral
+O objetivo do desafio foi criar um dashboard de vendas em Excel focado na organização e visualização de dados, transformando dados brutos em informações visuais claras. O projeto visa permitir uma análise eficaz do desempenho e a tomada de decisões baseada em dados.
+
+<br/>
+
+## Arquivos Principais do Repositório
 
 - Barraca_Brisa_Praia.xlsx
 
 - README.md
 
 <sub>Observação - as imagens, paleta de cores, base de dados e cálculos encontram-se também no arquivo .xlsx e serão detalhadas em "Estrutura do Workbook".</sub>
-​
 
-## Descrição dos dados simulados
+<br/>
+
+## Descrição dos Dados Simulados
 O Prompt para Perplexity IA **<ins>simular os dados</ins>** encontra-se disponível no [Apêndice](#apêndice---prompt-para-perplexity-ia-simular-os-dados) logo abaixo.
 
+<br/>
 
-
-## Estrutura do workbook
+## Estrutura do Workbook
 - Planilha Assets: logo, paleta de cores, ícones, avatar.
 - Planilha Base: tabela de vendas do ano de 2025 (fonte para criação das Tabelas Dinâmicas).
 - Planilha Cálculos: Perguntas de negócio, tabelas dinâmicas + medidas (total vendas, quantidade, ticket médio etc.) e prévia dos gráficos.
 - Planilha Dashboard: página final em tela cheia com slicers e gráficos.
-​
-## Visão do dashboard
+
+<br/>
+
+## Visão do Dashboard
 - Apresentar os grandes números (Total Vendas, Total Quantidade, Ticket Médio).
 
 - Gráficos
@@ -44,9 +49,10 @@ O Prompt para Perplexity IA **<ins>simular os dados</ins>** encontra-se disponí
   - Os filtros disponíveis são de Mês Ano Venda, Dia da Semana, Produto e Meio de Pagamento.
   - Eles são independentes a nível de seleção mas "agem conjuntamente" em todo o dashboard (grandes números e gráficos).
   - Cada filtro permite multiplas escolhas e, da mesma forma, impactam todo o dashboard.
-​
 
-## Dashboard - Imagens de Exemplo
+<br/>
+
+# Dashboard - Imagens de Exemplo
 
 - Neste primeiro exemplo, estamos vendo a situação geral das vendas, sem aplicação de qualquer filtro...
 
@@ -56,9 +62,10 @@ O Prompt para Perplexity IA **<ins>simular os dados</ins>** encontra-se disponí
 - No segundo exemplo, estamos vendo a situação das vendas com filtros aplicados. São eles, vendas dos meses de Janeiro, Fevereiro e Março (jan, fev, mar), ocorridas aos sábados (sab), dos produtos Petiscos / Porções e Sucos / Batidas, pagos com PIX.
 
 <img width="1148" height="1014" alt="Dashboard_Visão_Tela_Cheia_Ex2" src="https://github.com/user-attachments/assets/379a443b-78a7-4743-b281-0e00dda3f8bb" />\
-<br>
-<br>
-## Como reproduzir / usar o projeto
+
+<br/>
+
+## Como Reproduzir / Usar o Projeto
 - Requisitos:
   - Microsoft Excel 365 (ou versão equivalente, com Tabelas Dinâmicas e Filtros).
 
@@ -67,7 +74,7 @@ O Prompt para Perplexity IA **<ins>simular os dados</ins>** encontra-se disponí
   - para ter mais controle nas planilhas, clique no menu Exibir e marque conforme sua necessidade "Títulos", "Linhas de Grade", "Ícones de Tipo de Dados" e "Barra de Fórmulas".
   - para reexibir as demais planilhas do Projeto, clique com o botão direito do mouse no nome da planilha Dashboard (barra inferior) -> Reexibir... e marque uma ou mais planilhas desejadas (Assets, Base, Cálculos) e clique em OK.
 
-<br>
+<br/>
 
 ## Agradecimentos
 
@@ -75,14 +82,17 @@ O Prompt para Perplexity IA **<ins>simular os dados</ins>** encontra-se disponí
 
 ### [Santander Open Academy](https://www.santanderopenacademy.com/pt_br/index.html)
 
+<br/>
+
 ## Créditos
 [Perplexity AI](https://www.perplexity.ai/) - da geração dos dados fictícios a discussão de detalhes para aprimorar pontos aprendidos durante o curso com o **Felipão**.
 
 ### **Agradeço a todos!** :pray: :sparkling_heart:
 <br/>
 <hr/>
+<br/>
 
-## Apêndice - Prompt para Perplexity IA simular os dados
+## Apêndice - Prompt para Perplexity IA Simular os Dados
 
 Consegue criar um arquivo .xlsx ou .csv com <ins>dados fictícios</ins> sobre vendas de uma barraca de praia?
 
