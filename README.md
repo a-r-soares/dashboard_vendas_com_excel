@@ -4,7 +4,7 @@
 <br/>
 
 # Projeto - Dashboard de Vendas – Barraca Brisa Solar
-<ins>Simulação</ins> de vendas de uma barraca de praia <ins>fictícia</ins>, com dashboard em Excel, para fins de treinamento no curso Santander 2025 - Ciência de Dados com Python, ministrado pela [DIO](https://www.dio.me/).
+**<ins>Simulação</ins>** de vendas de uma barraca de praia **<ins>fictícia</ins>**, com dashboard em Excel, para fins de treinamento no curso Santander 2025 - Ciência de Dados com Python, ministrado pela [DIO](https://www.dio.me/).
 
 <br/>
 
