@@ -15,9 +15,9 @@ O objetivo do desafio foi criar um dashboard de vendas em Excel focado na organi
 
 ## Arquivos Principais do Repositório
 
-- Barraca_Brisa_Praia.xlsx
+- Barraca_Brisa_Praia.xlsx :: arquivo principal do projeto (assets, dados, cálculos e dashboard).
 
-- README.md
+- README.md :: documentação do projeto.
 
 <sub>Observação - as imagens, paleta de cores, base de dados e cálculos encontram-se também no arquivo .xlsx e serão detalhadas em "Estrutura do Workbook".</sub>
 
